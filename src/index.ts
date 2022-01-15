@@ -4,3 +4,4 @@ export { measureAccessibilityScopedBuffer } from './features/accessibility-measu
 export { selectAccountsScopedBuffer } from './features/accounts-select-scoped-buffer';
 export { aggregateCheckoutScopedBuffer } from './features/checkout-aggregate-scoped-buffer';
 export { CheckoutAggregateScopedBufferCard } from './components/CheckoutAggregateScopedBufferCard';
+export { formatCustomersScopedBuffer } from './features/customers-format-scoped-buffer';
