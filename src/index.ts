@@ -6,3 +6,4 @@ export { aggregateCheckoutScopedBuffer } from './features/checkout-aggregate-sco
 export { CheckoutAggregateScopedBufferCard } from './components/CheckoutAggregateScopedBufferCard';
 export { formatCustomersScopedBuffer } from './features/customers-format-scoped-buffer';
 export { rankDeliveryScopedBuffer } from './features/delivery-rank-scoped-buffer';
+export { classifyFiltersScopedBuffer } from './features/filters-classify-scoped-buffer';
