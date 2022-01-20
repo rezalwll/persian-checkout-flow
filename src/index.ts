@@ -7,3 +7,4 @@ export { CheckoutAggregateScopedBufferCard } from './components/CheckoutAggregat
 export { formatCustomersScopedBuffer } from './features/customers-format-scoped-buffer';
 export { rankDeliveryScopedBuffer } from './features/delivery-rank-scoped-buffer';
 export { classifyFiltersScopedBuffer } from './features/filters-classify-scoped-buffer';
+export { indexFormsScopedBuffer } from './features/forms-index-scoped-buffer';
