@@ -9,3 +9,5 @@ export { rankDeliveryScopedBuffer } from './features/delivery-rank-scoped-buffer
 export { classifyFiltersScopedBuffer } from './features/filters-classify-scoped-buffer';
 export { indexFormsScopedBuffer } from './features/forms-index-scoped-buffer';
 export { resolveFulfillmentScopedBuffer } from './features/fulfillment-resolve-scoped-buffer';
+export { deriveInventoryScopedBuffer } from './features/inventory-derive-scoped-buffer';
+export { InventoryDeriveScopedBufferCard } from './components/InventoryDeriveScopedBufferCard';
