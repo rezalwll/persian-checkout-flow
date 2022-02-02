@@ -12,3 +12,4 @@ export { resolveFulfillmentScopedBuffer } from './features/fulfillment-resolve-s
 export { deriveInventoryScopedBuffer } from './features/inventory-derive-scoped-buffer';
 export { InventoryDeriveScopedBufferCard } from './components/InventoryDeriveScopedBufferCard';
 export { selectNavigationScopedBuffer } from './features/navigation-select-scoped-buffer';
+export { aggregateProductsScopedBuffer } from './features/products-aggregate-scoped-buffer';
