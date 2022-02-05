@@ -15,3 +15,4 @@ export { selectNavigationScopedBuffer } from './features/navigation-select-scope
 export { aggregateProductsScopedBuffer } from './features/products-aggregate-scoped-buffer';
 export { groupReportsScopedBuffer } from './features/reports-group-scoped-buffer';
 export { ReportsGroupScopedBufferCard } from './components/ReportsGroupScopedBufferCard';
+export { classifySearchScopedBuffer } from './features/search-classify-scoped-buffer';
