@@ -16,3 +16,4 @@ export { aggregateProductsScopedBuffer } from './features/products-aggregate-sco
 export { groupReportsScopedBuffer } from './features/reports-group-scoped-buffer';
 export { ReportsGroupScopedBufferCard } from './components/ReportsGroupScopedBufferCard';
 export { classifySearchScopedBuffer } from './features/search-classify-scoped-buffer';
+export { measureSessionsScopedBuffer } from './features/sessions-measure-scoped-buffer';
