@@ -17,3 +17,4 @@ export { groupReportsScopedBuffer } from './features/reports-group-scoped-buffer
 export { ReportsGroupScopedBufferCard } from './components/ReportsGroupScopedBufferCard';
 export { classifySearchScopedBuffer } from './features/search-classify-scoped-buffer';
 export { measureSessionsScopedBuffer } from './features/sessions-measure-scoped-buffer';
+export { scheduleSettingsScopedBuffer } from './features/settings-schedule-scoped-buffer';
