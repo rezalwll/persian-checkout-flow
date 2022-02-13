@@ -18,3 +18,5 @@ export { ReportsGroupScopedBufferCard } from './components/ReportsGroupScopedBuf
 export { classifySearchScopedBuffer } from './features/search-classify-scoped-buffer';
 export { measureSessionsScopedBuffer } from './features/sessions-measure-scoped-buffer';
 export { scheduleSettingsScopedBuffer } from './features/settings-schedule-scoped-buffer';
+export { partitionStateScopedBuffer } from './features/state-partition-scoped-buffer';
+export { StatePartitionScopedBufferCard } from './components/StatePartitionScopedBufferCard';
