@@ -20,3 +20,4 @@ export { measureSessionsScopedBuffer } from './features/sessions-measure-scoped-
 export { scheduleSettingsScopedBuffer } from './features/settings-schedule-scoped-buffer';
 export { partitionStateScopedBuffer } from './features/state-partition-scoped-buffer';
 export { StatePartitionScopedBufferCard } from './components/StatePartitionScopedBufferCard';
+export { filterTablesScopedBuffer } from './features/tables-filter-scoped-buffer';
