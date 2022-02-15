@@ -21,3 +21,4 @@ export { scheduleSettingsScopedBuffer } from './features/settings-schedule-scope
 export { partitionStateScopedBuffer } from './features/state-partition-scoped-buffer';
 export { StatePartitionScopedBufferCard } from './components/StatePartitionScopedBufferCard';
 export { filterTablesScopedBuffer } from './features/tables-filter-scoped-buffer';
+export { rankTeamsScopedBuffer } from './features/teams-rank-scoped-buffer';
