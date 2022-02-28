@@ -25,3 +25,4 @@ export { rankTeamsScopedBuffer } from './features/teams-rank-scoped-buffer';
 export { groupValidationScopedBuffer } from './features/validation-group-scoped-buffer';
 export { compareWorkspaceScopedBuffer } from './features/workspace-compare-scoped-buffer';
 export { measureNotificationsScopedBuffer } from './features/notifications-measure-scoped-buffer';
+export { estimateReturnsScopedBuffer } from './features/returns-estimate-scoped-buffer';
