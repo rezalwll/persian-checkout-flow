@@ -26,3 +26,4 @@ export { groupValidationScopedBuffer } from './features/validation-group-scoped-
 export { compareWorkspaceScopedBuffer } from './features/workspace-compare-scoped-buffer';
 export { measureNotificationsScopedBuffer } from './features/notifications-measure-scoped-buffer';
 export { estimateReturnsScopedBuffer } from './features/returns-estimate-scoped-buffer';
+export { partitionForecastingScopedBuffer } from './features/forecasting-partition-scoped-buffer';
