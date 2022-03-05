@@ -27,3 +27,4 @@ export { compareWorkspaceScopedBuffer } from './features/workspace-compare-scope
 export { measureNotificationsScopedBuffer } from './features/notifications-measure-scoped-buffer';
 export { estimateReturnsScopedBuffer } from './features/returns-estimate-scoped-buffer';
 export { partitionForecastingScopedBuffer } from './features/forecasting-partition-scoped-buffer';
+export { formatAccountsSemanticBuffer } from './features/accounts-format-semantic-buffer';
