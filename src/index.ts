@@ -30,3 +30,4 @@ export { partitionForecastingScopedBuffer } from './features/forecasting-partiti
 export { formatAccountsSemanticBuffer } from './features/accounts-format-semantic-buffer';
 export { rankAnalyticsSemanticBuffer } from './features/analytics-rank-semantic-buffer';
 export { classifyCatalogSemanticBuffer } from './features/catalog-classify-semantic-buffer';
+export { indexCheckoutSemanticBuffer } from './features/checkout-index-semantic-buffer';
