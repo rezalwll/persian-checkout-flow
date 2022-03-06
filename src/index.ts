@@ -29,3 +29,4 @@ export { estimateReturnsScopedBuffer } from './features/returns-estimate-scoped-
 export { partitionForecastingScopedBuffer } from './features/forecasting-partition-scoped-buffer';
 export { formatAccountsSemanticBuffer } from './features/accounts-format-semantic-buffer';
 export { rankAnalyticsSemanticBuffer } from './features/analytics-rank-semantic-buffer';
+export { classifyCatalogSemanticBuffer } from './features/catalog-classify-semantic-buffer';
