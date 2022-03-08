@@ -31,3 +31,4 @@ export { formatAccountsSemanticBuffer } from './features/accounts-format-semanti
 export { rankAnalyticsSemanticBuffer } from './features/analytics-rank-semantic-buffer';
 export { classifyCatalogSemanticBuffer } from './features/catalog-classify-semantic-buffer';
 export { indexCheckoutSemanticBuffer } from './features/checkout-index-semantic-buffer';
+export { resolveCustomersSemanticBuffer } from './features/customers-resolve-semantic-buffer';
