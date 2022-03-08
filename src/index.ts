@@ -32,3 +32,5 @@ export { rankAnalyticsSemanticBuffer } from './features/analytics-rank-semantic-
 export { classifyCatalogSemanticBuffer } from './features/catalog-classify-semantic-buffer';
 export { indexCheckoutSemanticBuffer } from './features/checkout-index-semantic-buffer';
 export { resolveCustomersSemanticBuffer } from './features/customers-resolve-semantic-buffer';
+export { deriveDeliverySemanticBuffer } from './features/delivery-derive-semantic-buffer';
+export { DeliveryDeriveSemanticBufferCard } from './components/DeliveryDeriveSemanticBufferCard';
