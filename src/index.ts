@@ -34,3 +34,4 @@ export { indexCheckoutSemanticBuffer } from './features/checkout-index-semantic-
 export { resolveCustomersSemanticBuffer } from './features/customers-resolve-semantic-buffer';
 export { deriveDeliverySemanticBuffer } from './features/delivery-derive-semantic-buffer';
 export { DeliveryDeriveSemanticBufferCard } from './components/DeliveryDeriveSemanticBufferCard';
+export { normalizeFiltersSemanticBuffer } from './features/filters-normalize-semantic-buffer';
