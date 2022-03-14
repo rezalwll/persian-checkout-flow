@@ -35,3 +35,4 @@ export { resolveCustomersSemanticBuffer } from './features/customers-resolve-sem
 export { deriveDeliverySemanticBuffer } from './features/delivery-derive-semantic-buffer';
 export { DeliveryDeriveSemanticBufferCard } from './components/DeliveryDeriveSemanticBufferCard';
 export { normalizeFiltersSemanticBuffer } from './features/filters-normalize-semantic-buffer';
+export { selectFormsSemanticBuffer } from './features/forms-select-semantic-buffer';
