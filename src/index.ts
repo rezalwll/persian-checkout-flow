@@ -36,3 +36,4 @@ export { deriveDeliverySemanticBuffer } from './features/delivery-derive-semanti
 export { DeliveryDeriveSemanticBufferCard } from './components/DeliveryDeriveSemanticBufferCard';
 export { normalizeFiltersSemanticBuffer } from './features/filters-normalize-semantic-buffer';
 export { selectFormsSemanticBuffer } from './features/forms-select-semantic-buffer';
+export { filterFulfillmentSemanticBuffer } from './features/fulfillment-filter-semantic-buffer';
