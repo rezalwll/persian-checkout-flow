@@ -38,3 +38,4 @@ export { normalizeFiltersSemanticBuffer } from './features/filters-normalize-sem
 export { selectFormsSemanticBuffer } from './features/forms-select-semantic-buffer';
 export { filterFulfillmentSemanticBuffer } from './features/fulfillment-filter-semantic-buffer';
 export { prioritizeInventorySemanticBuffer } from './features/inventory-prioritize-semantic-buffer';
+export { aggregateLayoutSemanticBuffer } from './features/layout-aggregate-semantic-buffer';
