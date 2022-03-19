@@ -41,3 +41,4 @@ export { prioritizeInventorySemanticBuffer } from './features/inventory-prioriti
 export { aggregateLayoutSemanticBuffer } from './features/layout-aggregate-semantic-buffer';
 export { groupNavigationSemanticBuffer } from './features/navigation-group-semantic-buffer';
 export { NavigationGroupSemanticBufferCard } from './components/NavigationGroupSemanticBufferCard';
+export { reduceOrdersSemanticBuffer } from './features/orders-reduce-semantic-buffer';
