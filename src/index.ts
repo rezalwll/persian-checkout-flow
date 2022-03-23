@@ -44,3 +44,4 @@ export { NavigationGroupSemanticBufferCard } from './components/NavigationGroupS
 export { reduceOrdersSemanticBuffer } from './features/orders-reduce-semantic-buffer';
 export { classifyPricingSemanticBuffer } from './features/pricing-classify-semantic-buffer';
 export { measureProductsSemanticBuffer } from './features/products-measure-semantic-buffer';
+export { scheduleReportsSemanticBuffer } from './features/reports-schedule-semantic-buffer';
