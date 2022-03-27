@@ -45,3 +45,4 @@ export { reduceOrdersSemanticBuffer } from './features/orders-reduce-semantic-bu
 export { classifyPricingSemanticBuffer } from './features/pricing-classify-semantic-buffer';
 export { measureProductsSemanticBuffer } from './features/products-measure-semantic-buffer';
 export { scheduleReportsSemanticBuffer } from './features/reports-schedule-semantic-buffer';
+export { summarizeSessionsSemanticBuffer } from './features/sessions-summarize-semantic-buffer';
