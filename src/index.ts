@@ -46,3 +46,4 @@ export { classifyPricingSemanticBuffer } from './features/pricing-classify-seman
 export { measureProductsSemanticBuffer } from './features/products-measure-semantic-buffer';
 export { scheduleReportsSemanticBuffer } from './features/reports-schedule-semantic-buffer';
 export { summarizeSessionsSemanticBuffer } from './features/sessions-summarize-semantic-buffer';
+export { rankShipmentsSemanticBuffer } from './features/shipments-rank-semantic-buffer';
