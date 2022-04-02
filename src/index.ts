@@ -48,3 +48,4 @@ export { scheduleReportsSemanticBuffer } from './features/reports-schedule-seman
 export { summarizeSessionsSemanticBuffer } from './features/sessions-summarize-semantic-buffer';
 export { rankShipmentsSemanticBuffer } from './features/shipments-rank-semantic-buffer';
 export { calculateStateSemanticBuffer } from './features/state-calculate-semantic-buffer';
+export { groupSuppliersSemanticBuffer } from './features/suppliers-group-semantic-buffer';
