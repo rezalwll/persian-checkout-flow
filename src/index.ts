@@ -49,3 +49,4 @@ export { summarizeSessionsSemanticBuffer } from './features/sessions-summarize-s
 export { rankShipmentsSemanticBuffer } from './features/shipments-rank-semantic-buffer';
 export { calculateStateSemanticBuffer } from './features/state-calculate-semantic-buffer';
 export { groupSuppliersSemanticBuffer } from './features/suppliers-group-semantic-buffer';
+export { compareTeamsSemanticBuffer } from './features/teams-compare-semantic-buffer';
