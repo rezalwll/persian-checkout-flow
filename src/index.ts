@@ -51,3 +51,4 @@ export { calculateStateSemanticBuffer } from './features/state-calculate-semanti
 export { groupSuppliersSemanticBuffer } from './features/suppliers-group-semantic-buffer';
 export { compareTeamsSemanticBuffer } from './features/teams-compare-semantic-buffer';
 export { measureTelemetrySemanticBuffer } from './features/telemetry-measure-semantic-buffer';
+export { selectValidationSemanticBuffer } from './features/validation-select-semantic-buffer';
