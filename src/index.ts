@@ -53,3 +53,5 @@ export { compareTeamsSemanticBuffer } from './features/teams-compare-semantic-bu
 export { measureTelemetrySemanticBuffer } from './features/telemetry-measure-semantic-buffer';
 export { selectValidationSemanticBuffer } from './features/validation-select-semantic-buffer';
 export { partitionWorkspaceSemanticBuffer } from './features/workspace-partition-semantic-buffer';
+export { aggregateNotificationsSemanticBuffer } from './features/notifications-aggregate-semantic-buffer';
+export { NotificationsAggregateSemanticBufferCard } from './components/NotificationsAggregateSemanticBufferCard';
