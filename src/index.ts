@@ -52,3 +52,4 @@ export { groupSuppliersSemanticBuffer } from './features/suppliers-group-semanti
 export { compareTeamsSemanticBuffer } from './features/teams-compare-semantic-buffer';
 export { measureTelemetrySemanticBuffer } from './features/telemetry-measure-semantic-buffer';
 export { selectValidationSemanticBuffer } from './features/validation-select-semantic-buffer';
+export { partitionWorkspaceSemanticBuffer } from './features/workspace-partition-semantic-buffer';
