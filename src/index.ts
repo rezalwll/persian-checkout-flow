@@ -55,3 +55,4 @@ export { selectValidationSemanticBuffer } from './features/validation-select-sem
 export { partitionWorkspaceSemanticBuffer } from './features/workspace-partition-semantic-buffer';
 export { aggregateNotificationsSemanticBuffer } from './features/notifications-aggregate-semantic-buffer';
 export { NotificationsAggregateSemanticBufferCard } from './components/NotificationsAggregateSemanticBufferCard';
+export { formatPermissionsSemanticBuffer } from './features/permissions-format-semantic-buffer';
