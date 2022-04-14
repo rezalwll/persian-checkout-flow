@@ -56,3 +56,4 @@ export { partitionWorkspaceSemanticBuffer } from './features/workspace-partition
 export { aggregateNotificationsSemanticBuffer } from './features/notifications-aggregate-semantic-buffer';
 export { NotificationsAggregateSemanticBufferCard } from './components/NotificationsAggregateSemanticBufferCard';
 export { formatPermissionsSemanticBuffer } from './features/permissions-format-semantic-buffer';
+export { classifyForecastingSemanticBuffer } from './features/forecasting-classify-semantic-buffer';
