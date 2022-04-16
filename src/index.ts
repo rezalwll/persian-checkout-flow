@@ -58,3 +58,4 @@ export { NotificationsAggregateSemanticBufferCard } from './components/Notificat
 export { formatPermissionsSemanticBuffer } from './features/permissions-format-semantic-buffer';
 export { classifyForecastingSemanticBuffer } from './features/forecasting-classify-semantic-buffer';
 export { indexAccessibilityStableBuffer } from './features/accessibility-index-stable-buffer';
+export { resolveAccountsStableBuffer } from './features/accounts-resolve-stable-buffer';
