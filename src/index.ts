@@ -59,3 +59,5 @@ export { formatPermissionsSemanticBuffer } from './features/permissions-format-s
 export { classifyForecastingSemanticBuffer } from './features/forecasting-classify-semantic-buffer';
 export { indexAccessibilityStableBuffer } from './features/accessibility-index-stable-buffer';
 export { resolveAccountsStableBuffer } from './features/accounts-resolve-stable-buffer';
+export { deriveAnalyticsStableBuffer } from './features/analytics-derive-stable-buffer';
+export { AnalyticsDeriveStableBufferCard } from './components/AnalyticsDeriveStableBufferCard';
