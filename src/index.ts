@@ -62,3 +62,4 @@ export { resolveAccountsStableBuffer } from './features/accounts-resolve-stable-
 export { deriveAnalyticsStableBuffer } from './features/analytics-derive-stable-buffer';
 export { AnalyticsDeriveStableBufferCard } from './components/AnalyticsDeriveStableBufferCard';
 export { normalizeCatalogStableBuffer } from './features/catalog-normalize-stable-buffer';
+export { filterCustomersStableBuffer } from './features/customers-filter-stable-buffer';
