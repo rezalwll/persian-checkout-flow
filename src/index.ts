@@ -64,3 +64,5 @@ export { AnalyticsDeriveStableBufferCard } from './components/AnalyticsDeriveSta
 export { normalizeCatalogStableBuffer } from './features/catalog-normalize-stable-buffer';
 export { filterCustomersStableBuffer } from './features/customers-filter-stable-buffer';
 export { aggregateFiltersStableBuffer } from './features/filters-aggregate-stable-buffer';
+export { groupFormsStableBuffer } from './features/forms-group-stable-buffer';
+export { FormsGroupStableBufferCard } from './components/FormsGroupStableBufferCard';
