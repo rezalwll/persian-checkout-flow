@@ -66,3 +66,4 @@ export { filterCustomersStableBuffer } from './features/customers-filter-stable-
 export { aggregateFiltersStableBuffer } from './features/filters-aggregate-stable-buffer';
 export { groupFormsStableBuffer } from './features/forms-group-stable-buffer';
 export { FormsGroupStableBufferCard } from './components/FormsGroupStableBufferCard';
+export { classifyInventoryStableBuffer } from './features/inventory-classify-stable-buffer';
