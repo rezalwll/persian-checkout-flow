@@ -68,3 +68,5 @@ export { groupFormsStableBuffer } from './features/forms-group-stable-buffer';
 export { FormsGroupStableBufferCard } from './components/FormsGroupStableBufferCard';
 export { classifyInventoryStableBuffer } from './features/inventory-classify-stable-buffer';
 export { deriveOrdersStableBuffer } from './features/orders-derive-stable-buffer';
+export { partitionPricingStableBuffer } from './features/pricing-partition-stable-buffer';
+export { PricingPartitionStableBufferCard } from './components/PricingPartitionStableBufferCard';
