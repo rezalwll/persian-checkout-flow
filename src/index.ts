@@ -70,3 +70,4 @@ export { classifyInventoryStableBuffer } from './features/inventory-classify-sta
 export { deriveOrdersStableBuffer } from './features/orders-derive-stable-buffer';
 export { partitionPricingStableBuffer } from './features/pricing-partition-stable-buffer';
 export { PricingPartitionStableBufferCard } from './components/PricingPartitionStableBufferCard';
+export { calculateSearchStableBuffer } from './features/search-calculate-stable-buffer';
