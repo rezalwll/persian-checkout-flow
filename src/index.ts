@@ -72,3 +72,5 @@ export { partitionPricingStableBuffer } from './features/pricing-partition-stabl
 export { PricingPartitionStableBufferCard } from './components/PricingPartitionStableBufferCard';
 export { calculateSearchStableBuffer } from './features/search-calculate-stable-buffer';
 export { groupSessionsStableBuffer } from './features/sessions-group-stable-buffer';
+export { resolveSettingsStableBuffer } from './features/settings-resolve-stable-buffer';
+export { SettingsResolveStableBufferCard } from './components/SettingsResolveStableBufferCard';
