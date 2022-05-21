@@ -75,3 +75,4 @@ export { groupSessionsStableBuffer } from './features/sessions-group-stable-buff
 export { resolveSettingsStableBuffer } from './features/settings-resolve-stable-buffer';
 export { SettingsResolveStableBufferCard } from './components/SettingsResolveStableBufferCard';
 export { estimateTablesStableBuffer } from './features/tables-estimate-stable-buffer';
+export { partitionTeamsStableBuffer } from './features/teams-partition-stable-buffer';
