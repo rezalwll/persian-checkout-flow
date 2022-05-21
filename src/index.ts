@@ -74,3 +74,4 @@ export { calculateSearchStableBuffer } from './features/search-calculate-stable-
 export { groupSessionsStableBuffer } from './features/sessions-group-stable-buffer';
 export { resolveSettingsStableBuffer } from './features/settings-resolve-stable-buffer';
 export { SettingsResolveStableBufferCard } from './components/SettingsResolveStableBufferCard';
+export { estimateTablesStableBuffer } from './features/tables-estimate-stable-buffer';
