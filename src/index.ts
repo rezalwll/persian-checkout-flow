@@ -76,3 +76,5 @@ export { resolveSettingsStableBuffer } from './features/settings-resolve-stable-
 export { SettingsResolveStableBufferCard } from './components/SettingsResolveStableBufferCard';
 export { estimateTablesStableBuffer } from './features/tables-estimate-stable-buffer';
 export { partitionTeamsStableBuffer } from './features/teams-partition-stable-buffer';
+export { aggregateTelemetryStableBuffer } from './features/telemetry-aggregate-stable-buffer';
+export { TelemetryAggregateStableBufferCard } from './components/TelemetryAggregateStableBufferCard';
