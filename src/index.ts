@@ -78,3 +78,4 @@ export { estimateTablesStableBuffer } from './features/tables-estimate-stable-bu
 export { partitionTeamsStableBuffer } from './features/teams-partition-stable-buffer';
 export { aggregateTelemetryStableBuffer } from './features/telemetry-aggregate-stable-buffer';
 export { TelemetryAggregateStableBufferCard } from './components/TelemetryAggregateStableBufferCard';
+export { formatValidationStableBuffer } from './features/validation-format-stable-buffer';
