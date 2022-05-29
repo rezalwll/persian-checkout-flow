@@ -79,3 +79,4 @@ export { partitionTeamsStableBuffer } from './features/teams-partition-stable-bu
 export { aggregateTelemetryStableBuffer } from './features/telemetry-aggregate-stable-buffer';
 export { TelemetryAggregateStableBufferCard } from './components/TelemetryAggregateStableBufferCard';
 export { formatValidationStableBuffer } from './features/validation-format-stable-buffer';
+export { classifyWorkspaceStableBuffer } from './features/workspace-classify-stable-buffer';
