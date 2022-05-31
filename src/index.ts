@@ -80,3 +80,4 @@ export { aggregateTelemetryStableBuffer } from './features/telemetry-aggregate-s
 export { TelemetryAggregateStableBufferCard } from './components/TelemetryAggregateStableBufferCard';
 export { formatValidationStableBuffer } from './features/validation-format-stable-buffer';
 export { classifyWorkspaceStableBuffer } from './features/workspace-classify-stable-buffer';
+export { resolvePermissionsStableBuffer } from './features/permissions-resolve-stable-buffer';
