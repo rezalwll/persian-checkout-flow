@@ -81,3 +81,5 @@ export { TelemetryAggregateStableBufferCard } from './components/TelemetryAggreg
 export { formatValidationStableBuffer } from './features/validation-format-stable-buffer';
 export { classifyWorkspaceStableBuffer } from './features/workspace-classify-stable-buffer';
 export { resolvePermissionsStableBuffer } from './features/permissions-resolve-stable-buffer';
+export { deriveReturnsStableBuffer } from './features/returns-derive-stable-buffer';
+export { ReturnsDeriveStableBufferCard } from './components/ReturnsDeriveStableBufferCard';
