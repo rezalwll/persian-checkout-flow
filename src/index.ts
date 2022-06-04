@@ -83,3 +83,4 @@ export { classifyWorkspaceStableBuffer } from './features/workspace-classify-sta
 export { resolvePermissionsStableBuffer } from './features/permissions-resolve-stable-buffer';
 export { deriveReturnsStableBuffer } from './features/returns-derive-stable-buffer';
 export { ReturnsDeriveStableBufferCard } from './components/ReturnsDeriveStableBufferCard';
+export { normalizeForecastingStableBuffer } from './features/forecasting-normalize-stable-buffer';
