@@ -84,3 +84,4 @@ export { resolvePermissionsStableBuffer } from './features/permissions-resolve-s
 export { deriveReturnsStableBuffer } from './features/returns-derive-stable-buffer';
 export { ReturnsDeriveStableBufferCard } from './components/ReturnsDeriveStableBufferCard';
 export { normalizeForecastingStableBuffer } from './features/forecasting-normalize-stable-buffer';
+export { selectAccessibilityStreamedBuffer } from './features/accessibility-select-streamed-buffer';
