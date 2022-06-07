@@ -85,3 +85,4 @@ export { deriveReturnsStableBuffer } from './features/returns-derive-stable-buff
 export { ReturnsDeriveStableBufferCard } from './components/ReturnsDeriveStableBufferCard';
 export { normalizeForecastingStableBuffer } from './features/forecasting-normalize-stable-buffer';
 export { selectAccessibilityStreamedBuffer } from './features/accessibility-select-streamed-buffer';
+export { filterAccountsStreamedBuffer } from './features/accounts-filter-streamed-buffer';
