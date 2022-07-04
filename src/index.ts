@@ -87,3 +87,4 @@ export { normalizeForecastingStableBuffer } from './features/forecasting-normali
 export { selectAccessibilityStreamedBuffer } from './features/accessibility-select-streamed-buffer';
 export { filterAccountsStreamedBuffer } from './features/accounts-filter-streamed-buffer';
 export { prioritizeAnalyticsStreamedBuffer } from './features/analytics-prioritize-streamed-buffer';
+export { aggregateCatalogStreamedBuffer } from './features/catalog-aggregate-streamed-buffer';
