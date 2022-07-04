@@ -88,3 +88,5 @@ export { selectAccessibilityStreamedBuffer } from './features/accessibility-sele
 export { filterAccountsStreamedBuffer } from './features/accounts-filter-streamed-buffer';
 export { prioritizeAnalyticsStreamedBuffer } from './features/analytics-prioritize-streamed-buffer';
 export { aggregateCatalogStreamedBuffer } from './features/catalog-aggregate-streamed-buffer';
+export { groupCheckoutStreamedBuffer } from './features/checkout-group-streamed-buffer';
+export { CheckoutGroupStreamedBufferCard } from './components/CheckoutGroupStreamedBufferCard';
