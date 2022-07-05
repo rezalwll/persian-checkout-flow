@@ -90,3 +90,4 @@ export { prioritizeAnalyticsStreamedBuffer } from './features/analytics-prioriti
 export { aggregateCatalogStreamedBuffer } from './features/catalog-aggregate-streamed-buffer';
 export { groupCheckoutStreamedBuffer } from './features/checkout-group-streamed-buffer';
 export { CheckoutGroupStreamedBufferCard } from './components/CheckoutGroupStreamedBufferCard';
+export { reduceCustomersStreamedBuffer } from './features/customers-reduce-streamed-buffer';
