@@ -92,3 +92,4 @@ export { groupCheckoutStreamedBuffer } from './features/checkout-group-streamed-
 export { CheckoutGroupStreamedBufferCard } from './components/CheckoutGroupStreamedBufferCard';
 export { reduceCustomersStreamedBuffer } from './features/customers-reduce-streamed-buffer';
 export { classifyDeliveryStreamedBuffer } from './features/delivery-classify-streamed-buffer';
+export { measureFiltersStreamedBuffer } from './features/filters-measure-streamed-buffer';
