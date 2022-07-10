@@ -94,3 +94,4 @@ export { reduceCustomersStreamedBuffer } from './features/customers-reduce-strea
 export { classifyDeliveryStreamedBuffer } from './features/delivery-classify-streamed-buffer';
 export { measureFiltersStreamedBuffer } from './features/filters-measure-streamed-buffer';
 export { scheduleFormsStreamedBuffer } from './features/forms-schedule-streamed-buffer';
+export { deriveFulfillmentStreamedBuffer } from './features/fulfillment-derive-streamed-buffer';
