@@ -97,3 +97,4 @@ export { scheduleFormsStreamedBuffer } from './features/forms-schedule-streamed-
 export { deriveFulfillmentStreamedBuffer } from './features/fulfillment-derive-streamed-buffer';
 export { partitionInventoryStreamedBuffer } from './features/inventory-partition-streamed-buffer';
 export { InventoryPartitionStreamedBufferCard } from './components/InventoryPartitionStreamedBufferCard';
+export { summarizeLayoutStreamedBuffer } from './features/layout-summarize-streamed-buffer';
