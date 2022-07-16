@@ -98,3 +98,4 @@ export { deriveFulfillmentStreamedBuffer } from './features/fulfillment-derive-s
 export { partitionInventoryStreamedBuffer } from './features/inventory-partition-streamed-buffer';
 export { InventoryPartitionStreamedBufferCard } from './components/InventoryPartitionStreamedBufferCard';
 export { summarizeLayoutStreamedBuffer } from './features/layout-summarize-streamed-buffer';
+export { filterNavigationStreamedBuffer } from './features/navigation-filter-streamed-buffer';
