@@ -100,3 +100,4 @@ export { InventoryPartitionStreamedBufferCard } from './components/InventoryPart
 export { summarizeLayoutStreamedBuffer } from './features/layout-summarize-streamed-buffer';
 export { filterNavigationStreamedBuffer } from './features/navigation-filter-streamed-buffer';
 export { rankOrdersStreamedBuffer } from './features/orders-rank-streamed-buffer';
+export { calculatePricingStreamedBuffer } from './features/pricing-calculate-streamed-buffer';
