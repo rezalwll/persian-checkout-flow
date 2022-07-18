@@ -99,3 +99,4 @@ export { partitionInventoryStreamedBuffer } from './features/inventory-partition
 export { InventoryPartitionStreamedBufferCard } from './components/InventoryPartitionStreamedBufferCard';
 export { summarizeLayoutStreamedBuffer } from './features/layout-summarize-streamed-buffer';
 export { filterNavigationStreamedBuffer } from './features/navigation-filter-streamed-buffer';
+export { rankOrdersStreamedBuffer } from './features/orders-rank-streamed-buffer';
