@@ -101,3 +101,4 @@ export { summarizeLayoutStreamedBuffer } from './features/layout-summarize-strea
 export { filterNavigationStreamedBuffer } from './features/navigation-filter-streamed-buffer';
 export { rankOrdersStreamedBuffer } from './features/orders-rank-streamed-buffer';
 export { calculatePricingStreamedBuffer } from './features/pricing-calculate-streamed-buffer';
+export { groupProductsStreamedBuffer } from './features/products-group-streamed-buffer';
