@@ -102,3 +102,5 @@ export { filterNavigationStreamedBuffer } from './features/navigation-filter-str
 export { rankOrdersStreamedBuffer } from './features/orders-rank-streamed-buffer';
 export { calculatePricingStreamedBuffer } from './features/pricing-calculate-streamed-buffer';
 export { groupProductsStreamedBuffer } from './features/products-group-streamed-buffer';
+export { resolveReportsStreamedBuffer } from './features/reports-resolve-streamed-buffer';
+export { ReportsResolveStreamedBufferCard } from './components/ReportsResolveStreamedBufferCard';
