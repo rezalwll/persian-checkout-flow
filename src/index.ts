@@ -104,3 +104,4 @@ export { calculatePricingStreamedBuffer } from './features/pricing-calculate-str
 export { groupProductsStreamedBuffer } from './features/products-group-streamed-buffer';
 export { resolveReportsStreamedBuffer } from './features/reports-resolve-streamed-buffer';
 export { ReportsResolveStreamedBufferCard } from './components/ReportsResolveStreamedBufferCard';
+export { compareRoutingStreamedBuffer } from './features/routing-compare-streamed-buffer';
