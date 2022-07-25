@@ -105,3 +105,4 @@ export { groupProductsStreamedBuffer } from './features/products-group-streamed-
 export { resolveReportsStreamedBuffer } from './features/reports-resolve-streamed-buffer';
 export { ReportsResolveStreamedBufferCard } from './components/ReportsResolveStreamedBufferCard';
 export { compareRoutingStreamedBuffer } from './features/routing-compare-streamed-buffer';
+export { measureSearchStreamedBuffer } from './features/search-measure-streamed-buffer';
