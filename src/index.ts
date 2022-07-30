@@ -107,3 +107,4 @@ export { ReportsResolveStreamedBufferCard } from './components/ReportsResolveStr
 export { compareRoutingStreamedBuffer } from './features/routing-compare-streamed-buffer';
 export { measureSearchStreamedBuffer } from './features/search-measure-streamed-buffer';
 export { selectSessionsStreamedBuffer } from './features/sessions-select-streamed-buffer';
+export { partitionShipmentsStreamedBuffer } from './features/shipments-partition-streamed-buffer';
