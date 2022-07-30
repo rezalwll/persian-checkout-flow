@@ -108,3 +108,5 @@ export { compareRoutingStreamedBuffer } from './features/routing-compare-streame
 export { measureSearchStreamedBuffer } from './features/search-measure-streamed-buffer';
 export { selectSessionsStreamedBuffer } from './features/sessions-select-streamed-buffer';
 export { partitionShipmentsStreamedBuffer } from './features/shipments-partition-streamed-buffer';
+export { aggregateStateStreamedBuffer } from './features/state-aggregate-streamed-buffer';
+export { StateAggregateStreamedBufferCard } from './components/StateAggregateStreamedBufferCard';
