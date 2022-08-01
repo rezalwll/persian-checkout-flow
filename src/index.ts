@@ -110,3 +110,4 @@ export { selectSessionsStreamedBuffer } from './features/sessions-select-streame
 export { partitionShipmentsStreamedBuffer } from './features/shipments-partition-streamed-buffer';
 export { aggregateStateStreamedBuffer } from './features/state-aggregate-streamed-buffer';
 export { StateAggregateStreamedBufferCard } from './components/StateAggregateStreamedBufferCard';
+export { rankTablesStreamedBuffer } from './features/tables-rank-streamed-buffer';
