@@ -111,3 +111,4 @@ export { partitionShipmentsStreamedBuffer } from './features/shipments-partition
 export { aggregateStateStreamedBuffer } from './features/state-aggregate-streamed-buffer';
 export { StateAggregateStreamedBufferCard } from './components/StateAggregateStreamedBufferCard';
 export { rankTablesStreamedBuffer } from './features/tables-rank-streamed-buffer';
+export { indexTelemetryStreamedBuffer } from './features/telemetry-index-streamed-buffer';
