@@ -112,3 +112,4 @@ export { aggregateStateStreamedBuffer } from './features/state-aggregate-streame
 export { StateAggregateStreamedBufferCard } from './components/StateAggregateStreamedBufferCard';
 export { rankTablesStreamedBuffer } from './features/tables-rank-streamed-buffer';
 export { indexTelemetryStreamedBuffer } from './features/telemetry-index-streamed-buffer';
+export { resolveValidationStreamedBuffer } from './features/validation-resolve-streamed-buffer';
