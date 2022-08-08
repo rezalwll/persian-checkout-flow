@@ -114,3 +114,4 @@ export { rankTablesStreamedBuffer } from './features/tables-rank-streamed-buffer
 export { indexTelemetryStreamedBuffer } from './features/telemetry-index-streamed-buffer';
 export { resolveValidationStreamedBuffer } from './features/validation-resolve-streamed-buffer';
 export { normalizeWorkspaceStreamedBuffer } from './features/workspace-normalize-streamed-buffer';
+export { selectNotificationsStreamedBuffer } from './features/notifications-select-streamed-buffer';
