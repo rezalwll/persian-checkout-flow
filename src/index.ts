@@ -116,3 +116,4 @@ export { resolveValidationStreamedBuffer } from './features/validation-resolve-s
 export { normalizeWorkspaceStreamedBuffer } from './features/workspace-normalize-streamed-buffer';
 export { selectNotificationsStreamedBuffer } from './features/notifications-select-streamed-buffer';
 export { filterPermissionsStreamedBuffer } from './features/permissions-filter-streamed-buffer';
+export { prioritizeReturnsStreamedBuffer } from './features/returns-prioritize-streamed-buffer';
