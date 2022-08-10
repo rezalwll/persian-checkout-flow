@@ -115,3 +115,4 @@ export { indexTelemetryStreamedBuffer } from './features/telemetry-index-streame
 export { resolveValidationStreamedBuffer } from './features/validation-resolve-streamed-buffer';
 export { normalizeWorkspaceStreamedBuffer } from './features/workspace-normalize-streamed-buffer';
 export { selectNotificationsStreamedBuffer } from './features/notifications-select-streamed-buffer';
+export { filterPermissionsStreamedBuffer } from './features/permissions-filter-streamed-buffer';
