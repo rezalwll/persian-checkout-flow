@@ -117,3 +117,4 @@ export { normalizeWorkspaceStreamedBuffer } from './features/workspace-normalize
 export { selectNotificationsStreamedBuffer } from './features/notifications-select-streamed-buffer';
 export { filterPermissionsStreamedBuffer } from './features/permissions-filter-streamed-buffer';
 export { prioritizeReturnsStreamedBuffer } from './features/returns-prioritize-streamed-buffer';
+export { aggregateForecastingStreamedBuffer } from './features/forecasting-aggregate-streamed-buffer';
