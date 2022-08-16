@@ -121,3 +121,4 @@ export { aggregateForecastingStreamedBuffer } from './features/forecasting-aggre
 export { groupAccessibilitySynchronizedBuffer } from './features/accessibility-group-synchronized-buffer';
 export { AccessibilityGroupSynchronizedBufferCard } from './components/AccessibilityGroupSynchronizedBufferCard';
 export { reduceAccountsSynchronizedBuffer } from './features/accounts-reduce-synchronized-buffer';
+export { classifyAnalyticsSynchronizedBuffer } from './features/analytics-classify-synchronized-buffer';
