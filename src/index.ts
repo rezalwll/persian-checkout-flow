@@ -120,3 +120,4 @@ export { prioritizeReturnsStreamedBuffer } from './features/returns-prioritize-s
 export { aggregateForecastingStreamedBuffer } from './features/forecasting-aggregate-streamed-buffer';
 export { groupAccessibilitySynchronizedBuffer } from './features/accessibility-group-synchronized-buffer';
 export { AccessibilityGroupSynchronizedBufferCard } from './components/AccessibilityGroupSynchronizedBufferCard';
+export { reduceAccountsSynchronizedBuffer } from './features/accounts-reduce-synchronized-buffer';
