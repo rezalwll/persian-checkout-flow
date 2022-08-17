@@ -122,3 +122,4 @@ export { groupAccessibilitySynchronizedBuffer } from './features/accessibility-g
 export { AccessibilityGroupSynchronizedBufferCard } from './components/AccessibilityGroupSynchronizedBufferCard';
 export { reduceAccountsSynchronizedBuffer } from './features/accounts-reduce-synchronized-buffer';
 export { classifyAnalyticsSynchronizedBuffer } from './features/analytics-classify-synchronized-buffer';
+export { measureCatalogSynchronizedBuffer } from './features/catalog-measure-synchronized-buffer';
