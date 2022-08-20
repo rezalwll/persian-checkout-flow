@@ -124,3 +124,4 @@ export { reduceAccountsSynchronizedBuffer } from './features/accounts-reduce-syn
 export { classifyAnalyticsSynchronizedBuffer } from './features/analytics-classify-synchronized-buffer';
 export { measureCatalogSynchronizedBuffer } from './features/catalog-measure-synchronized-buffer';
 export { scheduleCheckoutSynchronizedBuffer } from './features/checkout-schedule-synchronized-buffer';
+export { deriveCustomersSynchronizedBuffer } from './features/customers-derive-synchronized-buffer';
