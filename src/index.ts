@@ -127,3 +127,5 @@ export { scheduleCheckoutSynchronizedBuffer } from './features/checkout-schedule
 export { deriveCustomersSynchronizedBuffer } from './features/customers-derive-synchronized-buffer';
 export { summarizeFiltersSynchronizedBuffer } from './features/filters-summarize-synchronized-buffer';
 export { groupLayoutSynchronizedBuffer } from './features/layout-group-synchronized-buffer';
+export { resolveNavigationSynchronizedBuffer } from './features/navigation-resolve-synchronized-buffer';
+export { NavigationResolveSynchronizedBufferCard } from './components/NavigationResolveSynchronizedBufferCard';
