@@ -126,3 +126,4 @@ export { measureCatalogSynchronizedBuffer } from './features/catalog-measure-syn
 export { scheduleCheckoutSynchronizedBuffer } from './features/checkout-schedule-synchronized-buffer';
 export { deriveCustomersSynchronizedBuffer } from './features/customers-derive-synchronized-buffer';
 export { summarizeFiltersSynchronizedBuffer } from './features/filters-summarize-synchronized-buffer';
+export { groupLayoutSynchronizedBuffer } from './features/layout-group-synchronized-buffer';
