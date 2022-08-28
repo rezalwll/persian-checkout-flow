@@ -129,3 +129,4 @@ export { summarizeFiltersSynchronizedBuffer } from './features/filters-summarize
 export { groupLayoutSynchronizedBuffer } from './features/layout-group-synchronized-buffer';
 export { resolveNavigationSynchronizedBuffer } from './features/navigation-resolve-synchronized-buffer';
 export { NavigationResolveSynchronizedBufferCard } from './components/NavigationResolveSynchronizedBufferCard';
+export { compareOrdersSynchronizedBuffer } from './features/orders-compare-synchronized-buffer';
