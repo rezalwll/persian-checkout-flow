@@ -130,3 +130,4 @@ export { groupLayoutSynchronizedBuffer } from './features/layout-group-synchroni
 export { resolveNavigationSynchronizedBuffer } from './features/navigation-resolve-synchronized-buffer';
 export { NavigationResolveSynchronizedBufferCard } from './components/NavigationResolveSynchronizedBufferCard';
 export { compareOrdersSynchronizedBuffer } from './features/orders-compare-synchronized-buffer';
+export { measurePricingSynchronizedBuffer } from './features/pricing-measure-synchronized-buffer';
