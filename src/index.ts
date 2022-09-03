@@ -131,3 +131,4 @@ export { resolveNavigationSynchronizedBuffer } from './features/navigation-resol
 export { NavigationResolveSynchronizedBufferCard } from './components/NavigationResolveSynchronizedBufferCard';
 export { compareOrdersSynchronizedBuffer } from './features/orders-compare-synchronized-buffer';
 export { measurePricingSynchronizedBuffer } from './features/pricing-measure-synchronized-buffer';
+export { estimateReportsSynchronizedBuffer } from './features/reports-estimate-synchronized-buffer';
