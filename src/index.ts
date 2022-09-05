@@ -133,3 +133,5 @@ export { compareOrdersSynchronizedBuffer } from './features/orders-compare-synch
 export { measurePricingSynchronizedBuffer } from './features/pricing-measure-synchronized-buffer';
 export { estimateReportsSynchronizedBuffer } from './features/reports-estimate-synchronized-buffer';
 export { partitionRoutingSynchronizedBuffer } from './features/routing-partition-synchronized-buffer';
+export { aggregateSearchSynchronizedBuffer } from './features/search-aggregate-synchronized-buffer';
+export { SearchAggregateSynchronizedBufferCard } from './components/SearchAggregateSynchronizedBufferCard';
