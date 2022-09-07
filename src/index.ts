@@ -135,3 +135,4 @@ export { estimateReportsSynchronizedBuffer } from './features/reports-estimate-s
 export { partitionRoutingSynchronizedBuffer } from './features/routing-partition-synchronized-buffer';
 export { aggregateSearchSynchronizedBuffer } from './features/search-aggregate-synchronized-buffer';
 export { SearchAggregateSynchronizedBufferCard } from './components/SearchAggregateSynchronizedBufferCard';
+export { rankSettingsSynchronizedBuffer } from './features/settings-rank-synchronized-buffer';
