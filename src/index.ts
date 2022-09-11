@@ -136,3 +136,4 @@ export { partitionRoutingSynchronizedBuffer } from './features/routing-partition
 export { aggregateSearchSynchronizedBuffer } from './features/search-aggregate-synchronized-buffer';
 export { SearchAggregateSynchronizedBufferCard } from './components/SearchAggregateSynchronizedBufferCard';
 export { rankSettingsSynchronizedBuffer } from './features/settings-rank-synchronized-buffer';
+export { classifyShipmentsSynchronizedBuffer } from './features/shipments-classify-synchronized-buffer';
