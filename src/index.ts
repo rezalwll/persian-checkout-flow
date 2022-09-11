@@ -137,3 +137,4 @@ export { aggregateSearchSynchronizedBuffer } from './features/search-aggregate-s
 export { SearchAggregateSynchronizedBufferCard } from './components/SearchAggregateSynchronizedBufferCard';
 export { rankSettingsSynchronizedBuffer } from './features/settings-rank-synchronized-buffer';
 export { classifyShipmentsSynchronizedBuffer } from './features/shipments-classify-synchronized-buffer';
+export { indexStateSynchronizedBuffer } from './features/state-index-synchronized-buffer';
