@@ -138,3 +138,4 @@ export { SearchAggregateSynchronizedBufferCard } from './components/SearchAggreg
 export { rankSettingsSynchronizedBuffer } from './features/settings-rank-synchronized-buffer';
 export { classifyShipmentsSynchronizedBuffer } from './features/shipments-classify-synchronized-buffer';
 export { indexStateSynchronizedBuffer } from './features/state-index-synchronized-buffer';
+export { resolveSuppliersSynchronizedBuffer } from './features/suppliers-resolve-synchronized-buffer';
