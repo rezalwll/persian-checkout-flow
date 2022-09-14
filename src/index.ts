@@ -140,3 +140,4 @@ export { classifyShipmentsSynchronizedBuffer } from './features/shipments-classi
 export { indexStateSynchronizedBuffer } from './features/state-index-synchronized-buffer';
 export { resolveSuppliersSynchronizedBuffer } from './features/suppliers-resolve-synchronized-buffer';
 export { normalizeTeamsSynchronizedBuffer } from './features/teams-normalize-synchronized-buffer';
+export { selectTelemetrySynchronizedBuffer } from './features/telemetry-select-synchronized-buffer';
