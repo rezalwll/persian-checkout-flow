@@ -139,3 +139,4 @@ export { rankSettingsSynchronizedBuffer } from './features/settings-rank-synchro
 export { classifyShipmentsSynchronizedBuffer } from './features/shipments-classify-synchronized-buffer';
 export { indexStateSynchronizedBuffer } from './features/state-index-synchronized-buffer';
 export { resolveSuppliersSynchronizedBuffer } from './features/suppliers-resolve-synchronized-buffer';
+export { normalizeTeamsSynchronizedBuffer } from './features/teams-normalize-synchronized-buffer';
