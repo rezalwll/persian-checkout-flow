@@ -141,3 +141,4 @@ export { indexStateSynchronizedBuffer } from './features/state-index-synchronize
 export { resolveSuppliersSynchronizedBuffer } from './features/suppliers-resolve-synchronized-buffer';
 export { normalizeTeamsSynchronizedBuffer } from './features/teams-normalize-synchronized-buffer';
 export { selectTelemetrySynchronizedBuffer } from './features/telemetry-select-synchronized-buffer';
+export { filterValidationSynchronizedBuffer } from './features/validation-filter-synchronized-buffer';
