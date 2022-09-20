@@ -143,3 +143,4 @@ export { normalizeTeamsSynchronizedBuffer } from './features/teams-normalize-syn
 export { selectTelemetrySynchronizedBuffer } from './features/telemetry-select-synchronized-buffer';
 export { filterValidationSynchronizedBuffer } from './features/validation-filter-synchronized-buffer';
 export { prioritizeWorkflowsSynchronizedBuffer } from './features/workflows-prioritize-synchronized-buffer';
+export { aggregateWorkspaceSynchronizedBuffer } from './features/workspace-aggregate-synchronized-buffer';
