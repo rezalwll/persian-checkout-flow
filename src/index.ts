@@ -145,3 +145,4 @@ export { filterValidationSynchronizedBuffer } from './features/validation-filter
 export { prioritizeWorkflowsSynchronizedBuffer } from './features/workflows-prioritize-synchronized-buffer';
 export { aggregateWorkspaceSynchronizedBuffer } from './features/workspace-aggregate-synchronized-buffer';
 export { reducePermissionsSynchronizedBuffer } from './features/permissions-reduce-synchronized-buffer';
+export { classifyReturnsSynchronizedBuffer } from './features/returns-classify-synchronized-buffer';
