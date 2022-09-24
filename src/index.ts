@@ -146,3 +146,4 @@ export { prioritizeWorkflowsSynchronizedBuffer } from './features/workflows-prio
 export { aggregateWorkspaceSynchronizedBuffer } from './features/workspace-aggregate-synchronized-buffer';
 export { reducePermissionsSynchronizedBuffer } from './features/permissions-reduce-synchronized-buffer';
 export { classifyReturnsSynchronizedBuffer } from './features/returns-classify-synchronized-buffer';
+export { measureForecastingSynchronizedBuffer } from './features/forecasting-measure-synchronized-buffer';
