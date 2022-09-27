@@ -147,3 +147,4 @@ export { aggregateWorkspaceSynchronizedBuffer } from './features/workspace-aggre
 export { reducePermissionsSynchronizedBuffer } from './features/permissions-reduce-synchronized-buffer';
 export { classifyReturnsSynchronizedBuffer } from './features/returns-classify-synchronized-buffer';
 export { measureForecastingSynchronizedBuffer } from './features/forecasting-measure-synchronized-buffer';
+export { scheduleAccessibilityTypedBuffer } from './features/accessibility-schedule-typed-buffer';
