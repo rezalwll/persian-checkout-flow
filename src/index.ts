@@ -148,3 +148,4 @@ export { reducePermissionsSynchronizedBuffer } from './features/permissions-redu
 export { classifyReturnsSynchronizedBuffer } from './features/returns-classify-synchronized-buffer';
 export { measureForecastingSynchronizedBuffer } from './features/forecasting-measure-synchronized-buffer';
 export { scheduleAccessibilityTypedBuffer } from './features/accessibility-schedule-typed-buffer';
+export { deriveAccountsTypedBuffer } from './features/accounts-derive-typed-buffer';
