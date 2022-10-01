@@ -151,3 +151,4 @@ export { scheduleAccessibilityTypedBuffer } from './features/accessibility-sched
 export { deriveAccountsTypedBuffer } from './features/accounts-derive-typed-buffer';
 export { partitionAnalyticsTypedBuffer } from './features/analytics-partition-typed-buffer';
 export { AnalyticsPartitionTypedBufferCard } from './components/AnalyticsPartitionTypedBufferCard';
+export { summarizeCatalogTypedBuffer } from './features/catalog-summarize-typed-buffer';
