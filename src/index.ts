@@ -152,3 +152,4 @@ export { deriveAccountsTypedBuffer } from './features/accounts-derive-typed-buff
 export { partitionAnalyticsTypedBuffer } from './features/analytics-partition-typed-buffer';
 export { AnalyticsPartitionTypedBufferCard } from './components/AnalyticsPartitionTypedBufferCard';
 export { summarizeCatalogTypedBuffer } from './features/catalog-summarize-typed-buffer';
+export { filterCheckoutTypedBuffer } from './features/checkout-filter-typed-buffer';
