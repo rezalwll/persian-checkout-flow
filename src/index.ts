@@ -153,3 +153,4 @@ export { partitionAnalyticsTypedBuffer } from './features/analytics-partition-ty
 export { AnalyticsPartitionTypedBufferCard } from './components/AnalyticsPartitionTypedBufferCard';
 export { summarizeCatalogTypedBuffer } from './features/catalog-summarize-typed-buffer';
 export { filterCheckoutTypedBuffer } from './features/checkout-filter-typed-buffer';
+export { rankCustomersTypedBuffer } from './features/customers-rank-typed-buffer';
