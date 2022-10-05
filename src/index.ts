@@ -154,3 +154,4 @@ export { AnalyticsPartitionTypedBufferCard } from './components/AnalyticsPartiti
 export { summarizeCatalogTypedBuffer } from './features/catalog-summarize-typed-buffer';
 export { filterCheckoutTypedBuffer } from './features/checkout-filter-typed-buffer';
 export { rankCustomersTypedBuffer } from './features/customers-rank-typed-buffer';
+export { calculateDeliveryTypedBuffer } from './features/delivery-calculate-typed-buffer';
