@@ -157,3 +157,4 @@ export { rankCustomersTypedBuffer } from './features/customers-rank-typed-buffer
 export { calculateDeliveryTypedBuffer } from './features/delivery-calculate-typed-buffer';
 export { resolveFormsTypedBuffer } from './features/forms-resolve-typed-buffer';
 export { FormsResolveTypedBufferCard } from './components/FormsResolveTypedBufferCard';
+export { selectLayoutTypedBuffer } from './features/layout-select-typed-buffer';
