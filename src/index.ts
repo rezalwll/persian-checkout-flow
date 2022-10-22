@@ -161,3 +161,4 @@ export { selectLayoutTypedBuffer } from './features/layout-select-typed-buffer';
 export { aggregatePricingTypedBuffer } from './features/pricing-aggregate-typed-buffer';
 export { PricingAggregateTypedBufferCard } from './components/PricingAggregateTypedBufferCard';
 export { formatProductsTypedBuffer } from './features/products-format-typed-buffer';
+export { classifyRoutingTypedBuffer } from './features/routing-classify-typed-buffer';
