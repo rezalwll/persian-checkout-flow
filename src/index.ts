@@ -162,3 +162,4 @@ export { aggregatePricingTypedBuffer } from './features/pricing-aggregate-typed-
 export { PricingAggregateTypedBufferCard } from './components/PricingAggregateTypedBufferCard';
 export { formatProductsTypedBuffer } from './features/products-format-typed-buffer';
 export { classifyRoutingTypedBuffer } from './features/routing-classify-typed-buffer';
+export { normalizeShipmentsTypedBuffer } from './features/shipments-normalize-typed-buffer';
