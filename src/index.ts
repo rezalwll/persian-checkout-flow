@@ -164,3 +164,4 @@ export { formatProductsTypedBuffer } from './features/products-format-typed-buff
 export { classifyRoutingTypedBuffer } from './features/routing-classify-typed-buffer';
 export { normalizeShipmentsTypedBuffer } from './features/shipments-normalize-typed-buffer';
 export { selectStateTypedBuffer } from './features/state-select-typed-buffer';
+export { prioritizeTablesTypedBuffer } from './features/tables-prioritize-typed-buffer';
