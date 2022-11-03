@@ -165,3 +165,5 @@ export { classifyRoutingTypedBuffer } from './features/routing-classify-typed-bu
 export { normalizeShipmentsTypedBuffer } from './features/shipments-normalize-typed-buffer';
 export { selectStateTypedBuffer } from './features/state-select-typed-buffer';
 export { prioritizeTablesTypedBuffer } from './features/tables-prioritize-typed-buffer';
+export { groupTelemetryTypedBuffer } from './features/telemetry-group-typed-buffer';
+export { TelemetryGroupTypedBufferCard } from './components/TelemetryGroupTypedBufferCard';
