@@ -167,3 +167,4 @@ export { selectStateTypedBuffer } from './features/state-select-typed-buffer';
 export { prioritizeTablesTypedBuffer } from './features/tables-prioritize-typed-buffer';
 export { groupTelemetryTypedBuffer } from './features/telemetry-group-typed-buffer';
 export { TelemetryGroupTypedBufferCard } from './components/TelemetryGroupTypedBufferCard';
+export { reduceValidationTypedBuffer } from './features/validation-reduce-typed-buffer';
