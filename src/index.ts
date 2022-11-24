@@ -169,3 +169,4 @@ export { groupTelemetryTypedBuffer } from './features/telemetry-group-typed-buff
 export { TelemetryGroupTypedBufferCard } from './components/TelemetryGroupTypedBufferCard';
 export { reduceValidationTypedBuffer } from './features/validation-reduce-typed-buffer';
 export { classifyWorkflowsTypedBuffer } from './features/workflows-classify-typed-buffer';
+export { measureWorkspaceTypedBuffer } from './features/workspace-measure-typed-buffer';
