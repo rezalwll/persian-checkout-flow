@@ -171,3 +171,5 @@ export { reduceValidationTypedBuffer } from './features/validation-reduce-typed-
 export { classifyWorkflowsTypedBuffer } from './features/workflows-classify-typed-buffer';
 export { measureWorkspaceTypedBuffer } from './features/workspace-measure-typed-buffer';
 export { derivePermissionsTypedBuffer } from './features/permissions-derive-typed-buffer';
+export { partitionReturnsTypedBuffer } from './features/returns-partition-typed-buffer';
+export { ReturnsPartitionTypedBufferCard } from './components/ReturnsPartitionTypedBufferCard';
