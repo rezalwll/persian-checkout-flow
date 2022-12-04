@@ -176,3 +176,4 @@ export { ReturnsPartitionTypedBufferCard } from './components/ReturnsPartitionTy
 export { summarizeForecastingTypedBuffer } from './features/forecasting-summarize-typed-buffer';
 export { rankAccountsValidatedBuffer } from './features/accounts-rank-validated-buffer';
 export { calculateAnalyticsValidatedBuffer } from './features/analytics-calculate-validated-buffer';
+export { groupCatalogValidatedBuffer } from './features/catalog-group-validated-buffer';
