@@ -177,3 +177,5 @@ export { summarizeForecastingTypedBuffer } from './features/forecasting-summariz
 export { rankAccountsValidatedBuffer } from './features/accounts-rank-validated-buffer';
 export { calculateAnalyticsValidatedBuffer } from './features/analytics-calculate-validated-buffer';
 export { groupCatalogValidatedBuffer } from './features/catalog-group-validated-buffer';
+export { resolveCheckoutValidatedBuffer } from './features/checkout-resolve-validated-buffer';
+export { CheckoutResolveValidatedBufferCard } from './components/CheckoutResolveValidatedBufferCard';
