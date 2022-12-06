@@ -179,3 +179,4 @@ export { calculateAnalyticsValidatedBuffer } from './features/analytics-calculat
 export { groupCatalogValidatedBuffer } from './features/catalog-group-validated-buffer';
 export { resolveCheckoutValidatedBuffer } from './features/checkout-resolve-validated-buffer';
 export { CheckoutResolveValidatedBufferCard } from './components/CheckoutResolveValidatedBufferCard';
+export { compareCustomersValidatedBuffer } from './features/customers-compare-validated-buffer';
