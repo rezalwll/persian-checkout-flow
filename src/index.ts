@@ -180,3 +180,4 @@ export { groupCatalogValidatedBuffer } from './features/catalog-group-validated-
 export { resolveCheckoutValidatedBuffer } from './features/checkout-resolve-validated-buffer';
 export { CheckoutResolveValidatedBufferCard } from './components/CheckoutResolveValidatedBufferCard';
 export { compareCustomersValidatedBuffer } from './features/customers-compare-validated-buffer';
+export { measureDeliveryValidatedBuffer } from './features/delivery-measure-validated-buffer';
