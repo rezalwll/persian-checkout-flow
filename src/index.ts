@@ -181,3 +181,4 @@ export { resolveCheckoutValidatedBuffer } from './features/checkout-resolve-vali
 export { CheckoutResolveValidatedBufferCard } from './components/CheckoutResolveValidatedBufferCard';
 export { compareCustomersValidatedBuffer } from './features/customers-compare-validated-buffer';
 export { measureDeliveryValidatedBuffer } from './features/delivery-measure-validated-buffer';
+export { estimateFormsValidatedBuffer } from './features/forms-estimate-validated-buffer';
