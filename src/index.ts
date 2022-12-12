@@ -182,3 +182,4 @@ export { CheckoutResolveValidatedBufferCard } from './components/CheckoutResolve
 export { compareCustomersValidatedBuffer } from './features/customers-compare-validated-buffer';
 export { measureDeliveryValidatedBuffer } from './features/delivery-measure-validated-buffer';
 export { estimateFormsValidatedBuffer } from './features/forms-estimate-validated-buffer';
+export { partitionFulfillmentValidatedBuffer } from './features/fulfillment-partition-validated-buffer';
