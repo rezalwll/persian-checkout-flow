@@ -183,3 +183,5 @@ export { compareCustomersValidatedBuffer } from './features/customers-compare-va
 export { measureDeliveryValidatedBuffer } from './features/delivery-measure-validated-buffer';
 export { estimateFormsValidatedBuffer } from './features/forms-estimate-validated-buffer';
 export { partitionFulfillmentValidatedBuffer } from './features/fulfillment-partition-validated-buffer';
+export { aggregateInventoryValidatedBuffer } from './features/inventory-aggregate-validated-buffer';
+export { InventoryAggregateValidatedBufferCard } from './components/InventoryAggregateValidatedBufferCard';
