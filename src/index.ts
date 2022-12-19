@@ -186,3 +186,4 @@ export { partitionFulfillmentValidatedBuffer } from './features/fulfillment-part
 export { aggregateInventoryValidatedBuffer } from './features/inventory-aggregate-validated-buffer';
 export { InventoryAggregateValidatedBufferCard } from './components/InventoryAggregateValidatedBufferCard';
 export { formatLayoutValidatedBuffer } from './features/layout-format-validated-buffer';
+export { classifyOrdersValidatedBuffer } from './features/orders-classify-validated-buffer';
