@@ -187,3 +187,4 @@ export { aggregateInventoryValidatedBuffer } from './features/inventory-aggregat
 export { InventoryAggregateValidatedBufferCard } from './components/InventoryAggregateValidatedBufferCard';
 export { formatLayoutValidatedBuffer } from './features/layout-format-validated-buffer';
 export { classifyOrdersValidatedBuffer } from './features/orders-classify-validated-buffer';
+export { indexPricingValidatedBuffer } from './features/pricing-index-validated-buffer';
