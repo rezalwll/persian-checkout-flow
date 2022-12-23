@@ -190,3 +190,4 @@ export { classifyOrdersValidatedBuffer } from './features/orders-classify-valida
 export { indexPricingValidatedBuffer } from './features/pricing-index-validated-buffer';
 export { deriveReportsValidatedBuffer } from './features/reports-derive-validated-buffer';
 export { ReportsDeriveValidatedBufferCard } from './components/ReportsDeriveValidatedBufferCard';
+export { normalizeRoutingValidatedBuffer } from './features/routing-normalize-validated-buffer';
