@@ -192,3 +192,4 @@ export { deriveReportsValidatedBuffer } from './features/reports-derive-validate
 export { ReportsDeriveValidatedBufferCard } from './components/ReportsDeriveValidatedBufferCard';
 export { normalizeRoutingValidatedBuffer } from './features/routing-normalize-validated-buffer';
 export { filterSessionsValidatedBuffer } from './features/sessions-filter-validated-buffer';
+export { prioritizeSettingsValidatedBuffer } from './features/settings-prioritize-validated-buffer';
