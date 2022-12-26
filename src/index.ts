@@ -191,3 +191,4 @@ export { indexPricingValidatedBuffer } from './features/pricing-index-validated-
 export { deriveReportsValidatedBuffer } from './features/reports-derive-validated-buffer';
 export { ReportsDeriveValidatedBufferCard } from './components/ReportsDeriveValidatedBufferCard';
 export { normalizeRoutingValidatedBuffer } from './features/routing-normalize-validated-buffer';
+export { filterSessionsValidatedBuffer } from './features/sessions-filter-validated-buffer';
