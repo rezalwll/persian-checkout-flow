@@ -193,3 +193,4 @@ export { ReportsDeriveValidatedBufferCard } from './components/ReportsDeriveVali
 export { normalizeRoutingValidatedBuffer } from './features/routing-normalize-validated-buffer';
 export { filterSessionsValidatedBuffer } from './features/sessions-filter-validated-buffer';
 export { prioritizeSettingsValidatedBuffer } from './features/settings-prioritize-validated-buffer';
+export { aggregateShipmentsValidatedBuffer } from './features/shipments-aggregate-validated-buffer';
