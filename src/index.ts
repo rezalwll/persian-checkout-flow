@@ -196,3 +196,4 @@ export { prioritizeSettingsValidatedBuffer } from './features/settings-prioritiz
 export { aggregateShipmentsValidatedBuffer } from './features/shipments-aggregate-validated-buffer';
 export { groupStateValidatedBuffer } from './features/state-group-validated-buffer';
 export { StateGroupValidatedBufferCard } from './components/StateGroupValidatedBufferCard';
+export { classifyTablesValidatedBuffer } from './features/tables-classify-validated-buffer';
