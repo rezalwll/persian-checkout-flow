@@ -197,3 +197,4 @@ export { aggregateShipmentsValidatedBuffer } from './features/shipments-aggregat
 export { groupStateValidatedBuffer } from './features/state-group-validated-buffer';
 export { StateGroupValidatedBufferCard } from './components/StateGroupValidatedBufferCard';
 export { classifyTablesValidatedBuffer } from './features/tables-classify-validated-buffer';
+export { deriveValidationValidatedBuffer } from './features/validation-derive-validated-buffer';
