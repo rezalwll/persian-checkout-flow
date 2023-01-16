@@ -198,3 +198,5 @@ export { groupStateValidatedBuffer } from './features/state-group-validated-buff
 export { StateGroupValidatedBufferCard } from './components/StateGroupValidatedBufferCard';
 export { classifyTablesValidatedBuffer } from './features/tables-classify-validated-buffer';
 export { deriveValidationValidatedBuffer } from './features/validation-derive-validated-buffer';
+export { partitionWorkflowsValidatedBuffer } from './features/workflows-partition-validated-buffer';
+export { WorkflowsPartitionValidatedBufferCard } from './components/WorkflowsPartitionValidatedBufferCard';
