@@ -200,3 +200,4 @@ export { classifyTablesValidatedBuffer } from './features/tables-classify-valida
 export { deriveValidationValidatedBuffer } from './features/validation-derive-validated-buffer';
 export { partitionWorkflowsValidatedBuffer } from './features/workflows-partition-validated-buffer';
 export { WorkflowsPartitionValidatedBufferCard } from './components/WorkflowsPartitionValidatedBufferCard';
+export { filterNotificationsValidatedBuffer } from './features/notifications-filter-validated-buffer';
