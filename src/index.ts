@@ -201,3 +201,4 @@ export { deriveValidationValidatedBuffer } from './features/validation-derive-va
 export { partitionWorkflowsValidatedBuffer } from './features/workflows-partition-validated-buffer';
 export { WorkflowsPartitionValidatedBufferCard } from './components/WorkflowsPartitionValidatedBufferCard';
 export { filterNotificationsValidatedBuffer } from './features/notifications-filter-validated-buffer';
+export { rankPermissionsValidatedBuffer } from './features/permissions-rank-validated-buffer';
