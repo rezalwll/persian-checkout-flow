@@ -202,3 +202,4 @@ export { partitionWorkflowsValidatedBuffer } from './features/workflows-partitio
 export { WorkflowsPartitionValidatedBufferCard } from './components/WorkflowsPartitionValidatedBufferCard';
 export { filterNotificationsValidatedBuffer } from './features/notifications-filter-validated-buffer';
 export { rankPermissionsValidatedBuffer } from './features/permissions-rank-validated-buffer';
+export { calculateReturnsValidatedBuffer } from './features/returns-calculate-validated-buffer';
