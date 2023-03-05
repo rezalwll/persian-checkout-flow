@@ -203,3 +203,4 @@ export { WorkflowsPartitionValidatedBufferCard } from './components/WorkflowsPar
 export { filterNotificationsValidatedBuffer } from './features/notifications-filter-validated-buffer';
 export { rankPermissionsValidatedBuffer } from './features/permissions-rank-validated-buffer';
 export { calculateReturnsValidatedBuffer } from './features/returns-calculate-validated-buffer';
+export { groupForecastingValidatedBuffer } from './features/forecasting-group-validated-buffer';
