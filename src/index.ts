@@ -204,3 +204,5 @@ export { filterNotificationsValidatedBuffer } from './features/notifications-fil
 export { rankPermissionsValidatedBuffer } from './features/permissions-rank-validated-buffer';
 export { calculateReturnsValidatedBuffer } from './features/returns-calculate-validated-buffer';
 export { groupForecastingValidatedBuffer } from './features/forecasting-group-validated-buffer';
+export { resolveAccessibilityVirtualizedBuffer } from './features/accessibility-resolve-virtualized-buffer';
+export { AccessibilityResolveVirtualizedBufferCard } from './components/AccessibilityResolveVirtualizedBufferCard';
