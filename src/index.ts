@@ -206,3 +206,4 @@ export { calculateReturnsValidatedBuffer } from './features/returns-calculate-va
 export { groupForecastingValidatedBuffer } from './features/forecasting-group-validated-buffer';
 export { resolveAccessibilityVirtualizedBuffer } from './features/accessibility-resolve-virtualized-buffer';
 export { AccessibilityResolveVirtualizedBufferCard } from './components/AccessibilityResolveVirtualizedBufferCard';
+export { selectCatalogVirtualizedBuffer } from './features/catalog-select-virtualized-buffer';
