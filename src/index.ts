@@ -207,3 +207,4 @@ export { groupForecastingValidatedBuffer } from './features/forecasting-group-va
 export { resolveAccessibilityVirtualizedBuffer } from './features/accessibility-resolve-virtualized-buffer';
 export { AccessibilityResolveVirtualizedBufferCard } from './components/AccessibilityResolveVirtualizedBufferCard';
 export { selectCatalogVirtualizedBuffer } from './features/catalog-select-virtualized-buffer';
+export { partitionCustomersVirtualizedBuffer } from './features/customers-partition-virtualized-buffer';
