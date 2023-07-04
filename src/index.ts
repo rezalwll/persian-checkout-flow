@@ -208,3 +208,5 @@ export { resolveAccessibilityVirtualizedBuffer } from './features/accessibility-
 export { AccessibilityResolveVirtualizedBufferCard } from './components/AccessibilityResolveVirtualizedBufferCard';
 export { selectCatalogVirtualizedBuffer } from './features/catalog-select-virtualized-buffer';
 export { partitionCustomersVirtualizedBuffer } from './features/customers-partition-virtualized-buffer';
+export { aggregateDeliveryVirtualizedBuffer } from './features/delivery-aggregate-virtualized-buffer';
+export { DeliveryAggregateVirtualizedBufferCard } from './components/DeliveryAggregateVirtualizedBufferCard';
