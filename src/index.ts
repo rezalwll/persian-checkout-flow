@@ -210,3 +210,4 @@ export { selectCatalogVirtualizedBuffer } from './features/catalog-select-virtua
 export { partitionCustomersVirtualizedBuffer } from './features/customers-partition-virtualized-buffer';
 export { aggregateDeliveryVirtualizedBuffer } from './features/delivery-aggregate-virtualized-buffer';
 export { DeliveryAggregateVirtualizedBufferCard } from './components/DeliveryAggregateVirtualizedBufferCard';
+export { formatFiltersVirtualizedBuffer } from './features/filters-format-virtualized-buffer';
