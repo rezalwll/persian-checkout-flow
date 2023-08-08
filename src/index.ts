@@ -211,3 +211,4 @@ export { partitionCustomersVirtualizedBuffer } from './features/customers-partit
 export { aggregateDeliveryVirtualizedBuffer } from './features/delivery-aggregate-virtualized-buffer';
 export { DeliveryAggregateVirtualizedBufferCard } from './components/DeliveryAggregateVirtualizedBufferCard';
 export { formatFiltersVirtualizedBuffer } from './features/filters-format-virtualized-buffer';
+export { classifyFulfillmentVirtualizedBuffer } from './features/fulfillment-classify-virtualized-buffer';
