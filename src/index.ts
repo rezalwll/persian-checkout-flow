@@ -212,3 +212,4 @@ export { aggregateDeliveryVirtualizedBuffer } from './features/delivery-aggregat
 export { DeliveryAggregateVirtualizedBufferCard } from './components/DeliveryAggregateVirtualizedBufferCard';
 export { formatFiltersVirtualizedBuffer } from './features/filters-format-virtualized-buffer';
 export { classifyFulfillmentVirtualizedBuffer } from './features/fulfillment-classify-virtualized-buffer';
+export { indexInventoryVirtualizedBuffer } from './features/inventory-index-virtualized-buffer';
