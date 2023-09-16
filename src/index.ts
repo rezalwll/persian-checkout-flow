@@ -213,3 +213,4 @@ export { DeliveryAggregateVirtualizedBufferCard } from './components/DeliveryAgg
 export { formatFiltersVirtualizedBuffer } from './features/filters-format-virtualized-buffer';
 export { classifyFulfillmentVirtualizedBuffer } from './features/fulfillment-classify-virtualized-buffer';
 export { indexInventoryVirtualizedBuffer } from './features/inventory-index-virtualized-buffer';
+export { normalizeOrdersVirtualizedBuffer } from './features/orders-normalize-virtualized-buffer';
