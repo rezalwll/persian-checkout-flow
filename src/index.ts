@@ -215,3 +215,4 @@ export { classifyFulfillmentVirtualizedBuffer } from './features/fulfillment-cla
 export { indexInventoryVirtualizedBuffer } from './features/inventory-index-virtualized-buffer';
 export { normalizeOrdersVirtualizedBuffer } from './features/orders-normalize-virtualized-buffer';
 export { selectPricingVirtualizedBuffer } from './features/pricing-select-virtualized-buffer';
+export { filterProductsVirtualizedBuffer } from './features/products-filter-virtualized-buffer';
