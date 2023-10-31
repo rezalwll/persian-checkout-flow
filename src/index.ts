@@ -216,3 +216,5 @@ export { indexInventoryVirtualizedBuffer } from './features/inventory-index-virt
 export { normalizeOrdersVirtualizedBuffer } from './features/orders-normalize-virtualized-buffer';
 export { selectPricingVirtualizedBuffer } from './features/pricing-select-virtualized-buffer';
 export { filterProductsVirtualizedBuffer } from './features/products-filter-virtualized-buffer';
+export { groupSearchVirtualizedBuffer } from './features/search-group-virtualized-buffer';
+export { SearchGroupVirtualizedBufferCard } from './components/SearchGroupVirtualizedBufferCard';
