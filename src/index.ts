@@ -218,3 +218,4 @@ export { selectPricingVirtualizedBuffer } from './features/pricing-select-virtua
 export { filterProductsVirtualizedBuffer } from './features/products-filter-virtualized-buffer';
 export { groupSearchVirtualizedBuffer } from './features/search-group-virtualized-buffer';
 export { SearchGroupVirtualizedBufferCard } from './components/SearchGroupVirtualizedBufferCard';
+export { reduceSessionsVirtualizedBuffer } from './features/sessions-reduce-virtualized-buffer';

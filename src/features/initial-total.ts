@@ -1,3 +1,3 @@
 export function calculateInitialTotal(values: readonly number[]): number {
-  return values.reduce((sum, value) => sum + value, 0);
+  return Array.from(values).reduce((total, value) => total + value, 0);
 }
